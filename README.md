@@ -1,1 +1,1 @@
-# jenkins-build-trigge
+# jenkins-build-trigger
